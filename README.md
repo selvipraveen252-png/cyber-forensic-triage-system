@@ -14,7 +14,7 @@ A professional-grade **digital forensics and incident response platform** for ra
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cyber-forensic-triage.git
+git clone https://github.com/selvipraveen252-png/cyber-forensic-triage-system.git
 cd cyber-forensic-triage
 
 # Install dependencies
@@ -118,7 +118,7 @@ cyber-forensic-triage/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/cyber-forensic-triage.git
+git clone https://github.com/selvipraveen252-png/cyber-forensic-triage-system.git
 cd cyber-forensic-triage
 ```
 
