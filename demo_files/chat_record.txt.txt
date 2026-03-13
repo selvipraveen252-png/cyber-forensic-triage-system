@@ -1,0 +1,15 @@
+Chat conversation extracted.
+
+User1: Did you leak the database?
+User2: Yes, attack completed successfully.
+
+Suspicious contact email:
+shadowbroker@protonmail.com
+
+Link shared:
+http://secure-update-panel.ru/admin
+
+Keywords detected:
+attack
+leak
+breach

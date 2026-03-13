@@ -1,0 +1,13 @@
+Network scan detected.
+
+External connection attempt from:
+45.33.32.156
+
+Command and control server suspected.
+
+URL accessed:
+http://darkpanel-control.net/login
+
+Suspicious activity: brute force attack detected.
+
+Possible cyber crime planning conversation logged.

@@ -1,0 +1,5 @@
+[2026-03-12 10:15:23] INFO: Connection from 192.168.1.50
+[2026-03-12 10:16:45] WARNING: Failed login attempt for user 'admin' from 45.33.32.156
+[2026-03-12 10:17:10] CRITICAL: Unauthorized access detected from 45.33.32.156
+[2026-03-12 10:18:05] INFO: Data exfiltration attempt to http://malicious-site.com/upload
+[2026-03-12 10:19:30] ERROR: Backdoor established, beaconing to 8.8.8.8

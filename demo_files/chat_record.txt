@@ -1,0 +1,5 @@
+[14:02] user1: Hey, did you get the file?
+[14:03] user2: Yeah, I downloaded it from http://bit.ly/suspicious-payload
+[14:05] user1: Run the script "payload.sh", it collects passwords.
+[14:06] user2: I sent the output to my personal email: attacker@gmail.com
+[14:10] user1: Use the bypass tool on the server at 123.123.123.123

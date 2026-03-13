@@ -1,0 +1,6 @@
+src_ip,dst_ip,bytes,protocol
+10.0.0.5,142.250.190.46,1500,HTTPS
+10.0.0.5,185.199.108.153,3400,HTTPS
+10.0.0.5,103.235.46.39,450000,HTTP
+10.0.0.5,evil-c2-server.net,120,TCP
+admin@company.com visited https://phishing-scam-site.org/login

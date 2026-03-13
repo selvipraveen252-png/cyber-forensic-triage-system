@@ -1,0 +1,15 @@
+User accessed suspicious server.
+
+Connection established to IP: 185.220.101.45
+
+Downloaded file from:
+http://malicious-login-example.com/update.exe
+
+Email detected:
+attacker@unknownmail.com
+
+Message content:
+The system will be attacked tonight.
+Execute the operation immediately.
+
+Possible data leak detected.
